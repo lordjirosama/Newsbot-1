@@ -1,1 +1,0 @@
-#support telegram @Solurix_bots
